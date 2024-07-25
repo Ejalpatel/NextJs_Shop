@@ -12,7 +12,7 @@ const Nav = () => {
         <div className='flex items-center justify-between w-[95%] md:w-4/5 mx-auto h-full'>
         {/* Logo */}
         <Link href="/">
-        <Image src="/images/logo.png" alt="logo" width={140} height={140}/>
+        <Image src="/images/logo2.png" alt="logo" width={120} height={100}/>
         </Link>
         {/* icons */}
         <div className="flex items-center space-x-6">
